@@ -28,7 +28,10 @@
 ;yt-dlp -f bestaudio --extract-audio --audio-format mp3 --no-check-certificate --geo-bypass --download-archive downloaded.txt http://youtube.com/playlist?list=PLtZeGoU2MroPTDYooH5Tp7fo9yJ3PY3ob
 
 
+
+
 ^Numpad3::  ; Ctrl + Numpad 3 hotkey
 {
     Run('pwsh -NoProfile -Command "taskkill /f /im explorer.exe && start explorer.exe"')
 }
+
