@@ -35,3 +35,16 @@
     Run('pwsh -NoProfile -Command "taskkill /f /im explorer.exe && start explorer.exe"')
 }
 
+
+^Numpad8::  ; Ctrl + Numpad 8
+{
+    ; Check if the Everything program is running
+    if WinExist("ahk_exe obs64.exe")  ; Checks if Everything is open
+    {
+        WinClose  ; Close the Everything window
+    }
+    else
+    {
+        Run("D:\utils\appsFiles\obs64.lnk")
+    }
+}
