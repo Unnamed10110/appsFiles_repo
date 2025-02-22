@@ -29,18 +29,23 @@
 
 
 
-
 #Requires AutoHotkey v2.0
 
 ^Numpad4:: {
     try {
-        Run("C:\Program Files\Warp\warp.exe") ; Adjust the path if necessary
-        Run("wt.exe") ; Windows Terminal
+        ; Check if Warp is already running
+        if !ProcessExist("warp.exe") {
+            Run("C:\Program Files\Warp\warp.exe") ; Adjust the path if necessary
+        }
+
+        ; Check if Windows Terminal is already running
+        if !ProcessExist("WindowsTerminal.exe") {
+            Run("wt.exe") ; Windows Terminal
+        }
     } catch Error as e {
         MsgBox "Error launching applications: " e.Message
     }
 }
-
 
 
 
@@ -70,7 +75,7 @@
     }
     else
     {
-        Run("D:\GDrive\My Drive\D_drive\must_programs_BU\Text-Grab.exe")
+        Run("D:\utils\appsFiles\Text-Grab.exe")
     }
 }
 
