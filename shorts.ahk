@@ -16,7 +16,7 @@
 
 
 ^Numpad2::{ ; Ctrl + numpad 2
-    Run("C:\Users\troja\AppData\Local\Microsoft\WindowsApps\chatgpt.exe")
+    Run("C:\Users\unnamed10110\AppData\Local\Microsoft\WindowsApps\chatgpt.exe")
 }
 
 
@@ -29,23 +29,21 @@
 
 
 
-#Requires AutoHotkey v2.0
-
-^Numpad4:: {
-    try {
-        ; Check if Warp is already running
-        if !ProcessExist("warp.exe") {
-            Run("C:\Program Files\Warp\warp.exe") ; Adjust the path if necessary
-        }
-
-        ; Check if Windows Terminal is already running
-        if !ProcessExist("WindowsTerminal.exe") {
-            Run("wt.exe") ; Windows Terminal
-        }
-    } catch Error as e {
-        MsgBox "Error launching applications: " e.Message
-    }
-}
+;^Numpad4:: {
+;    try {
+;        ; Check if Warp is already running
+;        if !ProcessExist("warp.exe") {
+;            Run("C:\Program Files\Warp\warp.exe") ; Adjust the path if necessary
+;        }
+;
+;        ; Check if Windows Terminal is already running
+;        if !ProcessExist("WindowsTerminal.exe") {
+;            Run("wt.exe") ; Windows Terminal
+;        }
+;    } catch Error as e {
+;        MsgBox "Error launching applications: " e.Message
+;    }
+;}
 
 
 
@@ -63,6 +61,25 @@
 ;    return
 ;}
 
+
+^Numpad6::  ; Ctrl + Numpad6 hotkey
+{
+    terminalExe := "WindowsTerminal.exe"
+
+    ; Try to find an existing Windows Terminal window
+    if WinExist("ahk_exe " terminalExe)
+    {
+        ; Activate and send Ctrl+Shift+T to open a new tab
+        WinActivate
+        Sleep 100  ; Small delay to ensure it's focused
+        Send("^+t")  ; Ctrl+Shift+T
+    }
+    else
+    {
+        ; Launch Windows Terminal
+        Run("wt.exe")
+    }
+}
 
 
 
@@ -83,18 +100,7 @@
 
 
 
-^Numpad8::  ; Ctrl + Numpad 8
-{
-    ; Check if the Everything program is running
-    if WinExist("ahk_exe obs64.exe")  ; Checks if Everything is open
-    {
-        WinClose  ; Close the Everything window
-    }
-    else
-    {
-        Run("D:\utils\appsFiles\obs64.lnk")
-    }
-}
+
 
 ; AutoHotkey v2 Script
 ; Open Microsoft Edge in Incognito Mode with Ctrl + Numpad 9
@@ -106,7 +112,17 @@
     return
 }
 
-;yt-dlp -f bestaudio --extract-audio --audio-format mp3 --playlist-end 26 --no-check-certificate --geo-bypass http://youtube.com/playlist?list=PLtZeGoU2MroPTDYooH5Tp7fo9yJ3PY3ob
-;yt-dlp -f bestaudio --extract-audio --audio-format mp3 --playlist-end 26 --no-check-certificate --geo-bypass http://youtube.com/playlist?list=PLtZeGoU2MroPTDYooH5Tp7fo9yJ3PY3ob
-;yt-dlp -f bestaudio --extract-audio --audio-format mp3 --no-check-certificate --geo-bypass --download-archive downloaded.txt http://youtube.com/playlist?list=PLtZeGoU2MroPTDYooH5Tp7fo9yJ3PY3ob
+^F12:: {
+    obsExe := "C:\Program Files\obs-studio\bin\64bit\obs64.exe"
+    obsDir := "C:\Program Files\obs-studio\bin\64bit"
+    winTitle := "ahk_exe obs64.exe"
 
+    if !WinExist(winTitle) {
+        Run obsExe, obsDir
+        WinWait(winTitle)
+    }
+
+    WinActivate(winTitle)
+    WinSetAlwaysOnTop true, winTitle
+    WinSetAlwaysOnTop false, winTitle
+}
