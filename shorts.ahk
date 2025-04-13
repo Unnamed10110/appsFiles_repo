@@ -97,7 +97,22 @@
 }
 
 
+^Numpad8::  ; Ctrl + Numpad8 hotkey
+{
+    terminalExe := "WindowsTerminal.exe"
 
+    ; Check if Windows Terminal is already open
+    if WinExist("ahk_exe " terminalExe)
+    {
+        ; Just focus the existing window
+        WinActivate
+    }
+    else
+    {
+        ; Launch Windows Terminal
+        Run("wt.exe")
+    }
+}
 
 
 
