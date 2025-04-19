@@ -94,5 +94,29 @@
     "TextContent": "68 KB 3/29/2025 11:46 AM",
     "WordBorderInfoJson": "",
     "RectAsString": "625,238,268,127"
+  },
+  {
+    "CaptureDateTime": "2025-04-19T16:12:18.1016114-03:00",
+    "ID": "16913942-fea3-48dd-bd7c-43fa9fca962e",
+    "ImagePath": "c39142b8-6714-4b00-943e-35faf7a07745.bmp",
+    "IsTable": false,
+    "DpiScaleFactor": 1,
+    "LanguageTag": "en-GB",
+    "SourceMode": 0,
+    "TextContent": "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+    "WordBorderInfoJson": "",
+    "RectAsString": "328,165,252,36"
+  },
+  {
+    "CaptureDateTime": "2025-04-19T16:12:31.6164622-03:00",
+    "ID": "7ca9e7aa-be8f-47d0-a6f0-84cc86bdbb69",
+    "ImagePath": "7aee94ff-99ad-4eb3-bce6-c1af7d990f39.bmp",
+    "IsTable": false,
+    "DpiScaleFactor": 1,
+    "LanguageTag": "en-GB",
+    "SourceMode": 0,
+    "TextContent": "D river Version:\r\n3.0.1.1300",
+    "WordBorderInfoJson": "",
+    "RectAsString": "317,254,212,32"
   }
 ]
