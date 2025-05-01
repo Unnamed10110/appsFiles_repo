@@ -62,24 +62,6 @@
 ;}
 
 
-^Numpad6::  ; Ctrl + Numpad6 hotkey
-{
-    terminalExe := "WindowsTerminal.exe"
-
-    ; Try to find an existing Windows Terminal window
-    if WinExist("ahk_exe " terminalExe)
-    {
-        ; Activate and send Ctrl+Shift+T to open a new tab
-        WinActivate
-        Sleep 100  ; Small delay to ensure it's focused
-        Send("^+t")  ; Ctrl+Shift+T
-    }
-    else
-    {
-        ; Launch Windows Terminal
-        Run("wt.exe")
-    }
-}
 
 
 
