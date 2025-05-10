@@ -62,21 +62,16 @@
 ;}
 
 
-
-
-
-^Numpad7::  ; Ctrl + Numpad 7
+^Numpad7::
 {
-    ; Check if the Everything program is running
-    if WinExist("ahk_exe Text-Grab.exe")  ; Checks if Everything is open
-    {
-        WinClose  ; Close the Everything window
-    }
-    else
-    {
-        Run("D:\utils\appsFiles\Text-Grab.exe")
-    }
+    pythonPath := "C:\Users\unnamed10110\AppData\Local\Programs\Python\Python310\pythonw.exe"
+    scriptPath := "D:\utils\appsFiles\highlighter.py"
+    
+    ; Combine the command correctly
+    Run pythonPath ' "' scriptPath '"'
 }
+
+
 
 
 ^Numpad8::  ; Ctrl + Numpad8 hotkey
@@ -123,3 +118,5 @@
     WinSetAlwaysOnTop true, winTitle
     WinSetAlwaysOnTop false, winTitle
 }
+
+
