@@ -64,14 +64,14 @@
 
 ^Numpad7::
 {
-    pythonPath := "C:\Users\unnamed10110\AppData\Local\Programs\Python\Python310\pythonw.exe"
+    pythonPath := "C:\Python313\pythonw.exe"
     scriptPath := "D:\utils\appsFiles\highlighter.py"
     
     ; Combine the command correctly
     Run pythonPath ' "' scriptPath '"'
 }
 
-
+    
 
 
 ^Numpad8::  ; Ctrl + Numpad8 hotkey
@@ -120,3 +120,4 @@
 }
 
 
+;yt-dlp --extract-audio --audio-format best --output "%(playlist_index)03d - %(title)s.%(ext)s" --external-downloader aria2c --external-downloader-args "-x 16 -k 1M" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
