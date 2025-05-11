@@ -120,5 +120,6 @@
 }
 
 
-;yt-dlp --extract-audio --audio-format best --output "%(playlist_index)03d - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+;yt-dlp --extract-audio --audio-format "m4a/m4a/mp3" --output "%(playlist_index)03d - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+
 
