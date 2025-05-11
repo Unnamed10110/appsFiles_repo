@@ -120,4 +120,5 @@
 }
 
 
-;yt-dlp --extract-audio --audio-format best --output "%(playlist_index)03d - %(title)s.%(ext)s" --external-downloader aria2c --external-downloader-args "-x 16 -k 1M" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+;yt-dlp --extract-audio --audio-format best --output "%(playlist_index)03d - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+
