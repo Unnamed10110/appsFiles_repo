@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Category xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>TrayIconServices</Name>
+  <ColorString>#1F1F1F</ColorString>
+  <allowOpenAll>true</allowOpenAll>
+  <ShortcutList>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Users\unnamed10110\AppData\Local\FlowLauncher</WorkingDirectory>
+      <FilePath>D:\utils\appsFiles\Flow Launcher.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Flow Launcher</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\AutoHotkey\v2</WorkingDirectory>
+      <FilePath>D:\utils\appsFiles\shorts.ahk - Shortcut.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>shorts.ahk - Shortcut</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>D:\utils\appsFiles</WorkingDirectory>
+      <FilePath>D:\utils\appsFiles\tacky-borders.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>tacky-borders</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>D:\utils\appsFiles\AltSnap1.64bin</WorkingDirectory>
+      <FilePath>D:\utils\appsFiles\AltSnap.exe - Shortcut.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>AltSnap.exe - Shortcut</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files\ShareX</WorkingDirectory>
+      <FilePath>C:\Users\unnamed10110\Desktop\ShareX.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>ShareX</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Users\unnamed10110\AppData\Local\Programs\Motrix</WorkingDirectory>
+      <FilePath>C:\Users\unnamed10110\Desktop\Motrix.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Motrix</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Drive File Stream</WorkingDirectory>
+      <FilePath>C:\Users\unnamed10110\Desktop\Google Drive.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Google Drive</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Users\unnamed10110\AppData\Local\Programs\QuickLook</WorkingDirectory>
+      <FilePath>C:\Users\unnamed10110\Desktop\QuickLook.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>QuickLook</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files\Windhawk</WorkingDirectory>
+      <FilePath>C:\Users\Public\Desktop\Windhawk.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Windhawk</name>
+    </ProgramShortcut>
+  </ShortcutList>
+  <Width>12</Width>
+  <Opacity>100</Opacity>
+</Category>
