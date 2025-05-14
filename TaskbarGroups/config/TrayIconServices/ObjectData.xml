@@ -41,13 +41,6 @@
     </ProgramShortcut>
     <ProgramShortcut>
       <Arguments />
-      <WorkingDirectory>C:\Users\unnamed10110\AppData\Local\Programs\Motrix</WorkingDirectory>
-      <FilePath>C:\Users\unnamed10110\Desktop\Motrix.lnk</FilePath>
-      <isWindowsApp>false</isWindowsApp>
-      <name>Motrix</name>
-    </ProgramShortcut>
-    <ProgramShortcut>
-      <Arguments />
       <WorkingDirectory>C:\Program Files (x86)\Google\Drive File Stream</WorkingDirectory>
       <FilePath>C:\Users\unnamed10110\Desktop\Google Drive.lnk</FilePath>
       <isWindowsApp>false</isWindowsApp>
