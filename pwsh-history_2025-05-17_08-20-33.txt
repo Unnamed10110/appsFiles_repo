@@ -1,0 +1,685 @@
+irm "https://christitus.com/win" | iex
+iex "& { $(irm https://christitus.com/win) } -Config 'C:\Users\unnamed10110\Desktop\programs.json'"
+irm "https://christitus.com/win" | iex
+code -r $profile
+cc
+.$profile
+winget install Terminal-Icons
+Install-Module Terminal-Icons
+.$profile
+cc
+ll
+cc
+wsl
+wsl --list --online
+wsl --install kali-linux
+cc
+pip install PyQt5
+cd D:\utils\appsFiles
+py .\highlighter.py
+& C:/Users/unnamed10110/AppData/Local/Programs/Python/Python310/python.exe d:/utils/appsFiles/highlighter.py
+cd D:\utils\appsFiles\highlighter.py
+cc
+py .\highlighter.py
+git init
+cc
+ll
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+winget install --id Python.Python.3 --source winget
+winget search python
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+$v=Get-Command python
+Get-Command python
+cc
+Get-Command python
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+7cc
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+pwsh .\install_highlighter.ps1
+cc
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command \"iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')\"" -Verb RunAs
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command \"iex '$(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')'\"" -Verb RunAs
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command \"& {iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1') }\"" -Verb RunAs
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command & {iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')}" -Verb RunAs
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+taskkill /f /im explo*
+start explorer.exe
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command \"iex '$(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')'\"" -Verb RunAs
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')cc
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+winget search shotcut
+winget install Meltytech.Shotcut
+taskkill /f /im git*
+cc
+git init
+cd ..
+cd ..
+taskkill /f /im git*
+git clone https://github.com/Unnamed10110/simpleHighlighter_Unnamed10110.git
+choco install screentogif
+cd ..
+cc
+taskkill /f /im git*
+rmdir /s /q "D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110"
+Remove-Item "D:/repos/usefullAppsGithub" -Recurse -Force
+handle D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110
+.$profile
+cc
+handle D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110
+handle.exe D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110
+handle64.exe D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110
+taskkill /f /im 16116
+handle64.exe D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110
+taskkill /f /im 15472
+git clone https://github.com/Unnamed10110/simpleHighlighter_Unnamed10110.git
+py .\overlayPY.lnk
+py .\overlayPY.pyw
+pip install screeninfo
+python.exe -m pip install --upgrade pip
+.$profile
+cc
+winget install AutoHotkey.AutoHotkey
+py .\highlighter.py
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+autohotkey.exe
+"C:\Users\unnamed10110\AppData\Local\Programs\AutoHotkey\v2\AutoHotkey64.exe"
+"C:\Users\$user\AppData\Local\Programs\AutoHotkey\v2\AutoHotkey64.exe"
+"C:\Users\$env:USERNAME\AppData\Local\Programs\AutoHotkey\v2\AutoHotkey64.exe"
+cc
+python
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+winget install --id Python.Python.3 --location "C:\Python" --silent --accept-package-agreements --accept-source-agreements
+winget search 
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')cc
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cc
+iex (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Unnamed10110/simpleHighlighter_Unnamed10110/master/install_highlighter.ps1')
+cmd
+cc
+cd D:\repos\
+ll
+cd .\usefullAppsGithub\
+l
+ll
+cd .\simpleHighlighter_Unnamed10110\
+cc
+ll
+cc
+ll
+.\install_highlighter.ps1
+Get-ChildItem -Recurse -Filter pythonw.exe -ErrorAction SilentlyContinue -Path "C:\"
+Get-Command pythonw.exe
+cc
+.\install_highlighter.ps1
+ccc
+c
+ccc
+cc
+.\install_highlighter.ps1
+cd .\simpleHighlighter_Unnamed10110\
+cd d:
+cd .\simpleHighlighter_Unnamed10110\
+cd .\repos\usefullAppsGithub\
+ll
+cd s
+cd .\simpleHighlighter_Unnamed10110\
+cc
+ll
+.\install_highlighter.ps1
+cc
+.\install_highlighter.ps1
+cc
+cd D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110\
+ll
+cc
+.\install_highlighter.ps1
+cc
+winget install --id Python.Python.3 --source winget --silent
+winget install Python.Python3 --silent
+cc
+winget search python
+cc
+.\install_highlighter.ps1
+Split-Path (Get-Command pythonw).Source
+C:\Users\$env:USERNAME\AppData\Local\Programs\AutoHotkey\v2\AutoHotkey64.exe
+C:\Users\$env:USERNAME\AppData\Local\Programs\AutoHotkey\
+C:\Users\$env:USERPROFILE\AppData\Local\Programs\AutoHotkey\
+"C:\Users\$env:USERPROFILE\AppData\Local\Programs\AutoHotkey\"
+"C:\Users\$env:USERNAME\AppData\Local\Programs\AutoHotkey\v2\AutoHotkey64.exe"
+cc
+.\install_highlighter.ps1
+cd D:\repos\usefullAppsGithub\simpleHighlighter_Unnamed10110\
+ll
+cc
+.\install_highlighter.ps11
+cc
+.\install_highlighter.ps1
+cc
+.\install_highlighter.ps1
+ll
+py .\highlighter.py
+cc
+.$profile
+cc
+.\install_highlighter.ps1
+cc
+Split-Path (Get-Command python).Source
+cc
+pip install --upgrade yt-dlp
+ C:\Users\unnamed10110\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+cc
+yt-dlp -f bestaudio --extract-audio --audio-format mp3 --no-check-certificate --geo-bypass --download-archive downloaded.txt https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM
+pip install yt-dlp
+yt-dlp -f bestaudio --extract-audio --audio-format mp3 --no-check-certificate --geo-bypass --download-archive downloaded.txt https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM
+cmd
+.$profile
+cc
+yt-dlp -f bestaudio --extract-audio --audio-format mp3 --no-check-certificate --geo-bypass --download-archive downloaded.txt https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM
+cd d:
+cd .\songs\
+cd .\all\
+cmd
+py .\highlighter.py
+pip install pyqt5
+python.exe -m pip install --upgrade pip
+cc
+cc
+pip install yt-dlp
+python --version
+.$profile
+cc
+python --version
+cc
+pip install yt-dlp
+yt-dlp -f bestaudio --extract-audio --audio-format mp3 --no-check-certificate --geo-bypass --download-archive downloaded.txt https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM
+cc
+del *
+cc
+ll
+pip install aria2c
+pip install aria
+cc
+aria2c
+pip install aria2
+yt-dlp -f bestaudio --extract-audio --audio-format mp3 --no-check-certificate --geo-bypass --download-archive downloaded.txt aria2c -x 10 https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM
+choco install aria2
+cc
+yt-dlp ^
+--extract-audio ^
+--audio-format best ^
+--output "%%(playlist_index)03d - %%(title)s.%%(ext)s" ^
+--external-downloader aria2c ^
+--external-downloader-args "-x 16 -k 1M" ^
+--no-check-certificate ^
+--geo-bypass ^
+--embed-metadata ^
+--download-archive downloaded.txt ^
+ccc
+cc
+yt-dlp --extract-audio --audio-format best --output "%(playlist_index)03d - %(title)s.%(ext)s" --external-downloader aria2c --external-downloader-args "-x 16 -k 1M" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cc
+del *
+cc
+yt-dlp --extract-audio --audio-format best --output "%(playlist_index)03d - %(title)s.%(ext)s" --external-downloader aria2c --external-downloader-args "-x 4 -k 512K" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cc
+del *
+yt-dlp --extract-audio --audio-format best --output "%(playlist_index)03d - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cmd ; where python
+cmd && where python
+cc
+yt-dlp --extract-audio --audio-format best  --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cc
+yt-dlp --extract-audio --audio-format "m4a/m4a/mp3" --output "%(playlist_index)03d - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+yt-dlp -f 'bestaudio[ext=m4a]' -o "%(playlist_index)s - %(title)s.%(ext)s" --downloader aria2c --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+yt-dlp -f 'bestaudio[ext=m4a]' -o "%(playlist_index)s - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cc
+yt-dlp -f 'bestaudio[ext=m4a]' -o "%(playlist_index)s - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cc
+py .\rm-unavailable.py
+pip install googleapiclient
+pip install google-api-python-client
+cc
+py .\rm-unavailable.py
+cc
+yt-dlp -f 'bestaudio[ext=m4a]' -o "%(playlist_index)s - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cc
+yt-dlp -f 'bestaudio[ext=m4a]' -o "%(playlist_index)s - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cd .\Downloads\
+cc
+ll
+cd .\medicat_files\
+cc
+ll
+.\Medicat_Installer.bat
+cd .\Downloads\
+cd .\medicat_files\
+cc
+.\Medicat_Installer.bat
+irm "https://christitus.com/win" | iex
+git init
+cd ..
+ll
+del .\xdm-brave\
+del /rf .\xdm-brave\
+del -rf .\xdm-brave\
+del -f .\xdm-brave\
+del -r .\xdm-brave\
+cc
+cd x
+cd .\xdm-brave\
+del *
+cd ..
+cc
+del .\xdm-brave\
+del -Recurse -Force .\xdm-brave\
+handle .\xdm-brave\
+cc
+cd D:\repos\
+del -Recurse -Force .\xdm-brave\
+ll
+cc
+handle 'E:'
+handle e:
+taskkill /f /im 22132
+handle e:
+start explorer.exe
+taskkill /f /im 29828
+cc
+Get-WinUserLanguageList
+cc
+Get-ItemProperty -Path "HKCU:\Keyboard Layout\Preload"
+Remove-ItemProperty -Path "HKCU:\Keyboard Layout\Preload" -Name "1"
+Get-ItemProperty -Path "HKCU:\Keyboard Layout\Preload"
+Get-WinUserLanguageList
+# Step 1: Clear existing language settings
+$langList = Get-WinUserLanguageList
+$langList.RemoveAll({ $_.LanguageTag -eq "en-US" })
+Set-WinUserLanguageList $langList -Force
+# Step 2: Add en-US with only United States-International layout
+$langList = New-WinUserLanguageList en-US
+$langList[0].InputMethodTips.Clear()
+$langList[0].InputMethodTips.Add("0409:00020409")  # United States-International
+Set-WinUserLanguageList $langList -Force
+HKCU:\Control Panel\International\User Profile
+Remove-ItemProperty -Path "HKCU:\Control Panel\International\User Profile" -Name "InputMethodOverride" -ErrorAction SilentlyContinue
+cc
+ipconfig
+cc
+ipconfig.exe
+cd e:/
+e:
+d:
+cd .\songs\
+cd .\all\
+cc
+yt-dlp --extract-audio --audio-format "m4a/m4a/mp3" --output "%(playlist_index)03d - %(title)s.%(ext)s" --no-check-certificate --geo-bypass --embed-metadata --download-archive downloaded.txt "https://www.youtube.com/playlist?list=PLtZeGoU2MroNYjjdukmayJmyuEdlHOTsM"
+cc
+cmd
+ipconfig
+cc
+ipconfig
+cc
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
+handle e:
+taskkill /f /im 8800
+taskkill /f /im 11872
+cc
+handle e:
+taskkill /f /im 2924
+taskkill /f /im 23992
+cc
+ipconfig
+cc
+taskkill /f /im tack*; explo*
+cc
+iex "& { $(irm https://aka.ms/install-powershell.ps1) }"
+cc
+iex "& { $(irm https://aka.ms/install-powershell.ps1) }"
+Invoke-WebRequest -Uri "https://github.com/PowerShell/PowerShell/releases/latest/download/PowerShell-7.4.1-win-x64.msi" -OutFile "$env:TEMP\pwsh.msi"; Start-Process "$env:TEMP\pwsh.msi"
+cc
+winget install --id Microsoft.Powershell --source winget --accept-source-agreements --accept-package-agreements
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+winget install --id Microsoft.WindowsTerminal --source winget --accept-package-agreements
+Install-Module oh-my-posh -Scope CurrentUser -AllowPrerelease -Force
+$profile
+notepad $profile
+cc
+notepad $profile
+.$profile
+notepad $profile
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Unnamed10110/zsh-pwsh-wt/master/windows-pws-posh/Microsoft.PowerShell_profile.ps1" -OutFile $PROFILE -UseBasicParsing
+notepad $profile
+.$PROFILE
+notepad $profile
+.$PROFILE
+exit
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Unnamed10110/zsh-pwsh-wt/master/windows-pws-posh/Microsoft.PowerShell_profile.ps1" -OutFile $PROFILE -UseBasicParsing
+.$PROFILE
+$fontUrl = "https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/CascadiaCode/SemiLight/complete/CaskaydiaCoveNerdFont-SemiLight.ttf"
+$fontPath = "$env:TEMP\CaskaydiaCoveNerdFont-SemiLight.ttf"
+Invoke-WebRequest -Uri $fontUrl -OutFile $fontPath
+Start-Process -FilePath $fontPathcc
+cc
+Invoke-WebRequest -Uri "https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/CascadiaCode/SemiLight/complete/CaskaydiaCoveNerdFont-SemiLight.ttf" -OutFile "$env:TEMP\CaskaydiaCoveNerdFont-SemiLight.ttf"; Start-Process "$env:TEMP\CaskaydiaCoveNerdFont-SemiLight.ttf"
+cc
+$sp="$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"; (Get-Content $sp -Raw) -replace '"fontFace"\s*:\s*"[^"]+"', '"fontFace": "CaskaydiaCove Nerd Font SemiLight"' | Set-Content $sp
+cc
+Invoke-WebRequest -Uri "https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/CascadiaCode/SemiLight/complete/CaskaydiaCoveNerdFont-SemiLight.ttf" -OutFile "$env:TEMP\CaskaydiaCoveNerdFont-SemiLight.ttf"; Start-Process "explorer.exe" -ArgumentList "$env:TEMP\CaskaydiaCoveNerdFont-SemiLight.ttf"
+cc
+cc
+$fontUrl = "https://github.com/Unnamed10110/appsFiles_repo/raw/master/CascadiaCode-2407.24/otf/static/CascadiaCodeNF-SemiLight.otf"
+$fontPath = "$env:TEMP\CascadiaCodeNF-SemiLight.otf"
+Invoke-WebRequest -Uri $fontUrl -OutFile $fontPath
+$fontDest = "$env:WINDIR\Fonts\CascadiaCodeNF-SemiLight.otf"
+Copy-Item $fontPath -Destination $fontDest -Force
+$ShellApp = New-Object -ComObject Shell.Application
+$Folder = $ShellApp.Namespace(0x14)
+$Folder.CopyHere($fontPath)
+$wtSettings = "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
+if (-Not (Test-Path $wtSettings)) {`
+    Write-Error "Windows Terminal settings.json not found. Open Windows Terminal at least once first."`
+} else {`
+    $json = Get-Content $wtSettings -Raw | ConvertFrom-Json`
+`
+    foreach ($profile in $json.profiles.list) {`
+        if ($profile.font) {`
+            $profile.font.face = "Cascadia Code NF SemiLight"`
+        } else {`
+            $profile | Add-Member -MemberType NoteProperty -Name font -Value @{ face = "Cascadia Code NF SemiLight" }`
+        }`
+    }`
+`
+    $json | ConvertTo-Json -Depth 5 | Set-Content -Path $wtSettings -Encoding UTF8`
+    Write-Host "Font updated to 'Cascadia Code NF SemiLight' in all profiles."`
+}
+$settingsPath = "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"; $settings = Get-Content $settingsPath -Raw | ConvertFrom-Json; $pwshProfile = $settings.profiles.list | Where-Object { $_.commandline -match 'pwsh' }; if ($pwshProfile) { $settings.defaultProfile = $pwshProfile.guid; $settings | ConvertTo-Json -Depth 5 | Set-Content -Path $settingsPath -Encoding utf8; Write-Host "Set pwsh profile as default." } else { Write-Warning "PowerShell Core profile not found." }
+cc
+$settingsPath = "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"; $settings = Get-Content $settingsPath -Raw | ConvertFrom-Json; $pwshProfile = $settings.profiles.list | Where-Object { $_.commandline -match 'pwsh' }; if ($pwshProfile) { $settings.defaultProfile = $pwshProfile.guid; $settings | ConvertTo-Json -Depth 5 | Set-Content -Path $settingsPath -Encoding utf8; Write-Host "Set pwsh profile as default." } else { Write-Warning "PowerShell Core profile not found." }
+$wtSettingsPath = "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
+if (-not (Test-Path $wtSettingsPath)) {`
+    Write-Error "Windows Terminal settings.json not found. Open Windows Terminal at least once first."`
+    return`
+}
+# Read settings
+$json = Get-Content $wtSettingsPath -Raw | ConvertFrom-Json
+# Find the profile with pwsh
+$pwshProfile = $json.profiles.list | Where-Object { $_.commandline -match "pwsh" }
+if (-not $pwshProfile) {`
+    Write-Error "No profile with 'pwsh' found. Make sure PowerShell Core is installed."`
+    return`
+}
+# Set pwsh profile as default
+$json.defaultProfile = $pwshProfile.guid
+# Save back to file
+$json | ConvertTo-Json -Depth 5 | Set-Content -Path $wtSettingsPath -Encoding UTF8
+Write-Host "✅ Set pwsh as the default Windows Terminal profile."
+cc
+$wtSettings = "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
+if (Test-Path $wtSettings) {`
+    $json = Get-Content $wtSettings -Raw | ConvertFrom-Json`
+`
+    $pwshProfile = $json.profiles.list | Where-Object { $_.commandline -match "pwsh" }`
+`
+    if ($pwshProfile) {`
+        $json.defaultProfile = $pwshProfile.guid`
+        $json | ConvertTo-Json -Depth 5 | Set-Content -Path $wtSettings -Encoding utf8`
+        Write-Host "✅ PowerShell Core (pwsh) set as default profile."`
+    } else {`
+        Write-Warning "⚠️ PowerShell Core profile not found in settings."`
+    }`
+} else {`
+    Write-Error "❌ Windows Terminal settings.json not found. Launch Windows Terminal once to generate it."`
+}
+winget install --id Microsoft.PowerShell --source winget --accept-package-agreements
+$source = "$env:APPDATA\Windhawk\settings.json"
+$destination = "d:\utils\appsFiles\windhawk-settings-backup.json"
+Copy-Item $source $destination -Force
+cc
+D:\utils\appsFiles
+cc`
+cd D:\utils\appsFiles
+.\backupWindhawk.ps1
+cc
+.$PROFILE
+cc
+cc
+cd D:\utils\appsFiles
+cc
+.\backupWindhawk.ps1
+.\backupWindHawk2.ps1
+cc
+del .\backupWindhawk.ps1
+cc
+Rename-Item .\backupWindHawk2.ps1 .\backupWindHawk.ps1
+.\backupWindHawk.ps1
+cc
+.\backupWindHawk.ps1
+ccc
+cc
+.\backupWindHawk.ps1
+choco install windhawk -y
+.\backupWindHawk.ps1
+cc
+handle D:\utils\appsFiles
+taskkill /f /im 16972
+taskkill /f /im 19912
+taskkill /f /im 15740
+handle D:\utils\appsFiles
+`
+taskkill /f /im 9612
+cc
+handle D:\utils\appsFiles
+cd ..
+git clone https://github.com/Unnamed10110/appsFiles_repo.git
+cd .\appsFiles_repo\
+cc
+ll
+cc
+.\backupWindHawk.ps1
+cc
+where python
+Get-Command handle
+Get-Command handle.exe
+Get-Command python
+get-command choco
+get-command java
+java
+choco install jdk21
+choco search jdk
+choco search java
+choco search jdk*
+choco search jdk 21*
+choco install microsoft-openjdk-21 21.0.7
+.$PROFILE
+cc
+get-command java
+java
+cc
+.$PROFILE
+java
+.$PROFILE
+cc
+get-command java
+cc
+java
+get-command java
+java -version
+cc
+choco search jdk 2
+cc
+choco search jdk 24
+winget search jdk 24
+winget search jdk
+choco search jdk 17*
+choco install corretto17jdk 17.0.15.61
+cc
+choco install corretto17jdk 17.0.15.61 -a
+choco install corretto17jdk 17.0.15.61 -y
+choco install corretto17jdk 17.0.15.61 
+choco install corretto17jdk 17.0.15.61 --force
+java -version
+cc
+java -version
+cc
+fzfcat
+c:
+cd c:\
+cc
+fzfcat
+$env:JAVA_HOME="c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin\java.exe"
+java -version
+.$PROFILE
+java -version
+$env:JAVA_HOME
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME",$env:JAVA_HOME,"System")
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME",$env:JAVA_HOME,"User")
+java -version
+$env:JAVA_HOME
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME",$env:JAVA_HOME,"unnamed10110")
+cc
+$env:JAVA_HOME
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME","c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin\java.exe","Machine")
+.$PROFILE
+java -version
+cc
+cc
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME","c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin\java.exe","Machine")
+java -version
+.$PROFILE
+java -version
+cc
+$env:JAVA_HOME
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME","c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin","Machine")
+.$PROFILE
+java -version
+fzfcat
+c:
+cd c:\
+fzfcat
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME","c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin","Machine")
+.$PROFILE
+java -version
+cc
+.$PROFILE
+cc
+java -version
+cc
+java -version
+.$PROFILE
+java -version
+cc
+java -version
+$env:JAVA_HOME
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME","c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin","Machine")
+$env:JAVA_HOME
+.$PROFILE
+get-command java
+cc
+java
+cc
+java -version
+cc
+fzfcat
+cd c:
+cc
+cd c:\
+cc
+fzfcat 
+$env:JAVA_HOME="c:\program Files\Amazon Corretto\jdk17.0.15_6\bin"
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME",$env:JAVA_HOME,"Machine")
+$env:JAVA_HOME
+java -version
+.$PROFILE
+java -version
+.$PROFILE
+java -version
+$env:JAVA_HOME="c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin\java.exe"
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME",$env:JAVA_HOME,"Machine")
+java -version
+$env:JAVA_HOME="c:\Program Files\Microsoft\jdk-21.0.7.6-hotspot\bin"
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME",$env:JAVA_HOME,"Machine")
+java -version
+cc
+choco search jdk 21*
+choco search jdk*
+cc
+cd D:\repos\zsh-pwsh-wt\windows-pws-posh\
+ll
+Install-Font -FontUrl "https://github.com/Unnamed10110/appsFiles_repo/blob/master/CascadiaCode-2407.24/otf/static/CascadiaCodeNF-Regular.otf"
+function Install-Font {`
+    param ([string]$FontUrl)`
+    $fontPath = Join-Path $TempDir (Split-Path $FontUrl -Leaf)`
+    $fontDest = "$env:WINDIR\Fonts\" + (Split-Path $FontUrl -Leaf)`
+    Invoke-WebRequest -Uri $FontUrl -OutFile $fontPath`
+    Copy-Item $fontPath -Destination $fontDest -Force`
+    (New-Object -ComObject Shell.Application).Namespace(0x14).CopyHere($fontPath)`
+}
+Install-Font -FontUrl "https://github.com/Unnamed10110/appsFiles_repo/blob/master/CascadiaCode-2407.24/otf/static/CascadiaCodeNF-Regular.otf"
+cc
+ll
+.\backupRestoreHistory.ps1
