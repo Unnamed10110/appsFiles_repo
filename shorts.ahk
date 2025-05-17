@@ -65,7 +65,7 @@
 ^Numpad7::
 {
     pythonPath := "C:\Python313\pythonw.exe"
-    scriptPath := "D:\utils\appsFiles\highlighter.py"
+    scriptPath := "D:\utils\appsFiles_Repo\highlighter.py"
     
     ; Combine the command correctly
     Run pythonPath ' "' scriptPath '"'
